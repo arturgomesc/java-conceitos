@@ -1,5 +1,5 @@
 /*
-Fazer uma classe Ex2Sorteio para:
+2) Fazer uma classe Ex2Sorteio para:
 • Sortear um número de 0 a 1000 (dica: usar Math.random())
 • Pedir um palpite ao usuário. Se ele errar, informar se o palpite é maior ou
 menor do que o número sorteado.
