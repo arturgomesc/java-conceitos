@@ -33,15 +33,23 @@ public class forEach {
             System.out.printf("%d - ", n);
         }
 
+        System.out.printf("%n");
+
         for(int n: num2) {
             System.out.printf("%d | ", n);
         }
+
+        System.out.printf("%n");
 
         for(int n : numeros) {
             System.out.printf("%d ", n);
         }
 
+        System.out.printf("%n");
+
         System.out.printf("Arrays são iguais:%s",Arrays.equals(num, num2) ? "Sim" : "Não");
+
+        System.out.printf("%n");
 
         pos = Arrays.binarySearch(num, pesquisa);
         System.out.printf("O elemento %d está no array? %s", pesquisa, pos > 0 ? "Sim" : "Não");
