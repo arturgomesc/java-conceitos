@@ -17,7 +17,7 @@ public class forEach {
 
         int pesquisa = 10;
         int pos = 0;
-        Arrays.binarySearch(num, pesquisa); //encontra um valor dentro de uma array. É necessáqio que o array esteja ordenado para funcionar.
+        Arrays.binarySearch(num, pesquisa); //encontra um valor dentro de uma array. É necessário que o array esteja ordenado para funcionar.
 
 
 
